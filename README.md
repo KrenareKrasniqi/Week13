@@ -1,2 +1,1 @@
-# Week13
-Week13
+Creating a plot using Python language on Jupyter notebook.
